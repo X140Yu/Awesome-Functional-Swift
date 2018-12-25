@@ -38,7 +38,7 @@ Pull request is welcomed :]
 
 - [typelift/Swiftz](https://github.com/typelift/Swiftz)
 
-- [HookahSwift/Hookah](https://github.com/HookahSwift/Hookah)
+- [pointfreeco/swift-overture](https://github.com/pointfreeco/swift-overture)
 
 - [robrix/Prelude](https://github.com/robrix/Prelude)
 
